@@ -27,3 +27,7 @@ cd 'путь до shell_emulator'
 python -m unittest tests.test_ls
 ```
 ![image](https://github.com/user-attachments/assets/0dcc7b06-ba85-4672-829c-02d98f0e552a)
+
+## Ручные тесты команд в эмуляторе 
+
+![image](https://github.com/user-attachments/assets/47b19b0b-e630-4f1b-81c2-4b0850c7245e)
