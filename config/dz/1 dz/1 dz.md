@@ -6,7 +6,7 @@ cd 'путь до shell_emulator'
 python emulator.py config.json
 ```
 ![image](https://github.com/user-attachments/assets/c8a36004-d49f-4209-9b79-8dff9644e933)
-![image](https://github.com/user-attachments/assets/2f9a3ae7-37ef-42b5-abac-38521ea00f3b)
+![image](https://github.com/user-attachments/assets/098054ad-42fc-41e0-8254-80eb5a3bd1e0)
 
 ## Запуск всех тестов
 ```
