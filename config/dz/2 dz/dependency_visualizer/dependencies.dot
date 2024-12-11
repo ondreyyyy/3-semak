@@ -1,0 +1,28 @@
+digraph G {
+  "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_b\file_b1.txt" [label="file_b1.txt"];
+  "15d47a284034479b5231d2202062429f01fdc4f3" [label="15d47a284034479b5231d2202062429f01fdc4f3"];
+  "71791fb31832babd6ed1df10d138d5517eaa7cc9" [label="71791fb31832babd6ed1df10d138d5517eaa7cc9"];
+  "e49b65bb08a4559c74aef444e68022eff2cb2355" [label="e49b65bb08a4559c74aef444e68022eff2cb2355"];
+  "299d345bea8bf97f7d2834e6ba2babd9c7101793" [label="299d345bea8bf97f7d2834e6ba2babd9c7101793"];
+  "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_b" [label="folder_b"];
+  "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_a\file_a1.txt" [label="file_a1.txt"];
+  "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_c.txt" [label="folder_c.txt"];
+  "bdf105be36cc312974130e6c9560cb4098ab647f" [label="bdf105be36cc312974130e6c9560cb4098ab647f"];
+  "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_a" [label="folder_a"];
+  "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_a\file_a2.txt" [label="file_a2.txt"];
+  "299d345bea8bf97f7d2834e6ba2babd9c7101793" -> "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_a\file_a2.txt";
+  "15d47a284034479b5231d2202062429f01fdc4f3" -> "e49b65bb08a4559c74aef444e68022eff2cb2355";
+  "15d47a284034479b5231d2202062429f01fdc4f3" -> "299d345bea8bf97f7d2834e6ba2babd9c7101793";
+  "15d47a284034479b5231d2202062429f01fdc4f3" -> "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_a\file_a1.txt";
+  "bdf105be36cc312974130e6c9560cb4098ab647f" -> "299d345bea8bf97f7d2834e6ba2babd9c7101793";
+  "bdf105be36cc312974130e6c9560cb4098ab647f" -> "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_b\file_b1.txt";
+  "e49b65bb08a4559c74aef444e68022eff2cb2355" -> "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_c.txt";
+  "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_b" -> "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_b\file_b1.txt";
+  "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_a" -> "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_a\file_a2.txt";
+  "71791fb31832babd6ed1df10d138d5517eaa7cc9" -> "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_c.txt";
+  "299d345bea8bf97f7d2834e6ba2babd9c7101793" -> "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_b\file_b1.txt";
+  "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_a" -> "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_a\file_a1.txt";
+  "15d47a284034479b5231d2202062429f01fdc4f3" -> "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_a\file_a2.txt";
+  "71791fb31832babd6ed1df10d138d5517eaa7cc9" -> "e49b65bb08a4559c74aef444e68022eff2cb2355";
+  "e49b65bb08a4559c74aef444e68022eff2cb2355" -> "C:\Users\moise\PycharmProjects\δη2\dependency_visualizer\folder_a\file_a1.txt";
+}
