@@ -1,0 +1,11 @@
+{
+  "//": "Конфигурация для числовых выражений",
+  "integer_example": 100,
+  "float_example": 3.14,
+  "sum_example": {
+    "expr": ["+", 10, 32]
+  },
+  "subtraction_example": {
+    "expr": ["-", 15, 5]
+  }
+}

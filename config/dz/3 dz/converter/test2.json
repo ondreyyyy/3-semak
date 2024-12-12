@@ -1,0 +1,7 @@
+{
+  "//": "Конфигурация для строковых выражений",
+  "string_example": "Hello",
+  "concat_example": {
+    "expr": ["concat", "Hello", " ", "World"]
+  }
+}

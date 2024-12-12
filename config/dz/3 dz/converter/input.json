@@ -1,0 +1,15 @@
+{
+  "//": "Это однострочный комментарий",
+  "/*": [
+    "Это многострочный",
+    "комментарий"
+  ],
+  "constant_name": 42,
+  "array_example": [1, 2, 3, 4],
+  "expression_example": {
+    "expr": ["+", 10, 32]
+  },
+  "another_expression": {
+    "expr": ["concat", "Hello", " ", "World"]
+  }
+}
